@@ -1,0 +1,18 @@
+# Node.js dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Parcel cache
+.cache/
+
+# Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db

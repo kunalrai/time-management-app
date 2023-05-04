@@ -1,0 +1,15 @@
+{
+    "name": "time-management-tool",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "parcel index.html",
+        "build": "parcel build index.html"
+    },
+    "dependencies": {
+        "tailwindcss": "^2.2.19"
+    },
+    "devDependencies": {
+        "parcel": "^2.3.2",
+        "typescript": "^4.6.2"
+    }
+}
